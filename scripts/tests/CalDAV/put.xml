@@ -617,7 +617,7 @@
 					<callback>propfindItems</callback>
 					<arg>
 						<name>okprops</name>
-						<value>{DAV:}getcontenttype$text/calendar;charset=utf-8</value>
+						<value>{DAV:}getcontenttype$text/calendar; charset=utf-8</value>
 					</arg>
 				</verify>
 			</request>
