@@ -264,7 +264,7 @@
 					<callback>dataString</callback>
 					<arg>
 						<name>contains</name>
-						<value>details xml:lang='en'</value>
+						<value>details xml:lang="en"</value>
 					</arg>
 				</verify>
 			</request>

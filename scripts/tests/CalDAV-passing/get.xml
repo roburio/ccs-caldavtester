@@ -86,8 +86,8 @@
 			</request>
 		</test>
 	</test-suite>
-	
-	<test-suite name='GET on collections'>
+
+<test-suite name='GET on collections'>
 		<require-feature>
 			<feature>directory listing</feature>
 		</require-feature>
@@ -536,7 +536,6 @@
 			</request>
 		</test>
 	</test-suite>
-
 	<end/>
 	
 </caldavtest>
